@@ -1,2 +1,2 @@
-##Mahi Verma
-##Mathematics And Scientific Computing , IIT KANPUR
+Mahi Verma,
+Mathematics And Scientific Computing , IIT KANPUR
